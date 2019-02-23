@@ -6,6 +6,6 @@ https://docs.google.com/presentation/d/1LQ_mlN0mS6gw-5GvU-eamHzXYRoAOreQo0mFDYgd
 
 
 
-![git_ppt](https://github.com/ddalairac/git-training/tree/master/img/01.png)
+![git_ppt](https://github.com/ddalairac/git-training/blob/master/img/01.png)
 
 
