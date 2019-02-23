@@ -6,7 +6,6 @@ https://docs.google.com/presentation/d/1LQ_mlN0mS6gw-5GvU-eamHzXYRoAOreQo0mFDYgd
 
 
 
-![ball_loop](https://github.com/ddalairac/animate-ui-training/blob/master/ejercicios/ball/ball_loop.gif)
+![git_ppt](https://github.com/ddalairac/git-training/tree/master/img/01.png)
 
 
-![ball_loop](https://github.com/ddalairac/animate-ui-training/blob/master/ejercicios/ball/ball_loop.gif)
