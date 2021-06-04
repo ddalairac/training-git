@@ -1,7 +1,7 @@
 # Git Training
 Repositorio con ejemplos de la capacitación en git
 
-La presentacion del curso puede verse en este PPT compartido.
+La presentacion del curso puede verse en este PPT compartido.<br>
 https://docs.google.com/presentation/d/1LQ_mlN0mS6gw-5GvU-eamHzXYRoAOreQo0mFDYgd7rY/edit
 
 
